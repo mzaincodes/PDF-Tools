@@ -1,4 +1,4 @@
-# PDFpro — All Your PDF Tools in One Place
+# PDF TOOLS — All Your PDF Tools in One Place
 
 A production-ready, privacy-first PDF platform built with **Next.js 15**. Every operation runs
 **entirely in the browser** — files are never uploaded to or stored on a server.
@@ -105,3 +105,4 @@ PDF; compression is measured against an image-heavy document.
 
 Built for people who care about privacy. © PDFpro.
 # PDF-Tools
+<img width="2880" height="15764" alt="pdf-screenshot" src="https://github.com/user-attachments/assets/3b876495-731d-453d-8ec0-1457d5aa1bbe" />
