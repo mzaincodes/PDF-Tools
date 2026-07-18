@@ -1,4 +1,4 @@
-# PDFpro — All Your PDF Tools in One Place
+# PDF TOOLS — All Your PDF Tools in One Place
 
 A production-ready, privacy-first PDF platform built with **Next.js 15**. Every operation runs
 **entirely in the browser** — files are never uploaded to or stored on a server.
